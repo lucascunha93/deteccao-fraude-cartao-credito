@@ -1,0 +1,4 @@
+# A base de dados é lida pelo link no notebook e não vai para o repositório (passa de 100 MB)
+*.csv
+.ipynb_checkpoints/
+__pycache__/
